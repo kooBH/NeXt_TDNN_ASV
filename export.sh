@@ -1,0 +1,1 @@
+python export.py --config configs/NeXt_TDNN_C256_B3_K65_7
